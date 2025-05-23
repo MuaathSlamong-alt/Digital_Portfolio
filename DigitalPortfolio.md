@@ -42,7 +42,7 @@ Link to my FIGMA CPUT Marketplace website design: <a href="https://www.figma.com
 **S**: I needed clarity on which technical and interpersonal skills I had developed.  
 **T**: I reviewed my experiences and identified key skills from projects.  
 **A**: I documented and evaluated the skills used in different tasks and scenarios.  
-**R**: I recognized strengths in communication, analytical thinking, and proficiency in Python.
+**R**: I recognized strengths in communication, analytical thinking, and proficiency in Web and Mobile design.
 
 ---
 
@@ -55,7 +55,7 @@ Link to my Mock Interview: <a href="https://github.com/MuaathSlamong-alt/MockInt
 
 ### Reflection: STAR Technique  
 **S**: I wanted to understand how my personality influences my team dynamics.  
-**T**: I undertook personality tests and group collaboration exercises.  
+**T**: I undertook personality tests,conducted mock interviews and completed group collaboration exercises.  
 **A**: I reviewed results and gathered peer insights to validate findings.  
 **R**: I found out that I am an INFJ, often contributing through supportive leadership and empathy.
 
