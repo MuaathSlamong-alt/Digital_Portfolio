@@ -33,6 +33,8 @@ This portfolio highlights my career planning, skill development, and reflective 
 
 ### Evidence
 ![](./skillsAndInterests.jpeg)
+ Link to my FIGMA band management mobile app design: <a href="https://www.figma.com/design/ywF9Gns13VkHVchRLv4tHz/CovidBands?t=qsKuQMtPauqwxIAD-1">CovidBands</a> 
+ Link to my FIGMA CPUT Marketplace website design: <a href="https://www.figma.com/design/BugIbpywr3Lrn4RaNOzuGf/CPUT-Marketplace-and-Exchange-Web-Application?t=qsKuQMtPauqwxIAD-1">CovidBands</a> 
 
 ### Reflection: STAR Technique  
 **S**: I needed clarity on which technical and interpersonal skills I had developed.  
@@ -46,6 +48,7 @@ This portfolio highlights my career planning, skill development, and reflective 
 
 ### Evidence
 ![](./personalityAssesment.jpeg)
+ Link to my Mock Interview: <a href="https://github.com/MuaathSlamong-alt/MockInterviewVideoPRP3">Mock Interview</a> 
 
 ### Reflection: STAR Technique  
 **S**: I wanted to understand how my personality influences my team dynamics.  
