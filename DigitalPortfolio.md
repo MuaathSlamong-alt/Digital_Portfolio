@@ -25,7 +25,7 @@ This portfolio highlights my career planning, skill development, and reflective 
 **S**: I was unsure which IT career would best match my strengths and goals.  
 **T**: I arranged development sessions to explore various career paths.  
 **A**: I took part in career assessments and consultations to gain insights.  
-**R**: I realized that Business Analysis and IT Project Management align well with my skills and interests.
+**R**: I realized that Mobile/Web Design and IT Project Management align well with my skills and interests.
 
 ---
 
