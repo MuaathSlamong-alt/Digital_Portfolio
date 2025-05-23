@@ -33,8 +33,10 @@ This portfolio highlights my career planning, skill development, and reflective 
 
 ### Evidence
 ![](./skillsAndInterests.jpeg)
- Link to my FIGMA band management mobile app design: <a href="https://www.figma.com/design/ywF9Gns13VkHVchRLv4tHz/CovidBands?t=qsKuQMtPauqwxIAD-1">CovidBands</a> 
- Link to my FIGMA CPUT Marketplace website design: <a href="https://www.figma.com/design/BugIbpywr3Lrn4RaNOzuGf/CPUT-Marketplace-and-Exchange-Web-Application?t=qsKuQMtPauqwxIAD-1">CovidBands</a> 
+
+Link to my FIGMA band management mobile app design: <a href="https://www.figma.com/design/ywF9Gns13VkHVchRLv4tHz/CovidBands?t=qsKuQMtPauqwxIAD-1">CovidBands</a> 
+
+Link to my FIGMA CPUT Marketplace website design: <a href="https://www.figma.com/design/BugIbpywr3Lrn4RaNOzuGf/CPUT-Marketplace-and-Exchange-Web-Application?t=qsKuQMtPauqwxIAD-1">CovidBands</a> 
 
 ### Reflection: STAR Technique  
 **S**: I needed clarity on which technical and interpersonal skills I had developed.  
